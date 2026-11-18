@@ -2,6 +2,9 @@
 
 A Git integration panel.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [git-panel](https://github.com/lumine-code/git-panel) and [git-center](https://github.com/lumine-code/git-center).
+
 Fork of [github](https://github.com/pulsar-edit/github), but forge-agnostic Git operations only.
 
 ## Features
